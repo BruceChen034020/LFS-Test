@@ -8,3 +8,4 @@
 7.txt filter=lfs diff=lfs merge=lfs -text
 8.txt filter=lfs diff=lfs merge=lfs -text
 9.txt filter=lfs diff=lfs merge=lfs -text
+10.txt filter=lfs diff=lfs merge=lfs -text
